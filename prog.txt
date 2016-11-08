@@ -1,0 +1,48 @@
+class Student()
+{
+	string name;
+	int age;
+	int class;
+	float per;
+}
+
+string name = "jain";
+s = new student();
+s.name = "adarsh";
+s.age = 18;
+s.class = 14;
+s.per = 99.99;
+
+print("Name= ",s.name);
+print("Age= ",s.age);
+print("Class= ",s.class);
+print("Percentage= ",s.per);
+
+-- Single Line Comment
+
+<# Multi
+   Line
+   Comment
+   #>
+<#
+int a;
+a = readInt("Enter a number: ");
+print("a= ",a);
+float ft;
+ft = readFloat("Enter float value: ");
+print("ft= ",ft);
+string name;
+name = readString("Enter your name: ");
+print("Name is ",name);
+
+float b=1.956,c;
+int f = 0b101;
+int g = 0x100;
+int h = 0o100;
+print("f= ",f," g= ",g," h= ",h);
+string d="jain";
+print(" a= ",a);
+print(" b= ",b);
+print(" d= ",d);
+b=5.7;
+#>

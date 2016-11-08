@@ -1,11 +1,8 @@
-a = 6
-ft= 5
-Name is 5
-f= 5 g= 256 h= 64
- a= 5
- b= 1.956
- d= jain
+Name= adarsh
+Age= 18
+Class= 14
+Percentage= 99.99
 
 
-{'b': 'float', 'name': 'string', 'h': 'int', 'ft': 'float', 'a': 'int', 'f': 'int', 'g': 'int', 'd': 'string', 'c': 'float'}
-{'b': 5.7, 'name': '5', 'h': 64, 'ft': 5.0, 'a': 5, 'f': 5, 'd': 'jain', 'g': 256}
+{'name': 'string'}
+{'name': 'jain'}
