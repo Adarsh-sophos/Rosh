@@ -5,4 +5,4 @@ a = c+1;
 c = (((a/4*12)+b)),d=2;
 print(hello." ".  a." d=". d  ." y=". y." a=".a );
 print(a);
-print(  "Malviya national institute of technology" );
+print(  "Malviya national institute of technology, Jaipur" );
