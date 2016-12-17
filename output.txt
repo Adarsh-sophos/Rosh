@@ -1,8 +1,11 @@
-Name= adarsh
-Age= 18
-Class= 14
-Percentage= 99.99
+You crack jee-advance: IIT
+You crack jee-main   : NIT
+You fail !!!!! :( :( : VIT
 
 
-{'name': 'string'}
-{'name': 'jain'}
+{}
+{}Detailed information about class:
+{'college': {'value': {'c': {'main': 'NIT', 'nothing': 'VIT', 'advance': 'IIT'}}, 'type': {'main': 'string', 'nothing': 'string', 'advance': 'string'}}}
+
+Information about object:
+{'c': 'college'}

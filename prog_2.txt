@@ -1,0 +1,8 @@
+float d,y=4;
+int a="a",b=4-1,c=d/4+y;
+string hello = "rosh";
+a = c+1;
+c = (((a/4*12)+b)),d=2;
+print(hello." ".  a." d=". d  ." y=". y." a=".a );
+print(a);
+print(  "Malviya national institute of technology" );

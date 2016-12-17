@@ -1,4 +1,4 @@
-
+<#
 struct college
 {
 	string advance;
@@ -14,7 +14,7 @@ c.nothing = "VIT";
 print("You crack jee-advance: ",c.advance);
 print("You crack jee-main   : ",c.main);
 print("You fail !!!!! :( :( : ",c.nothing);
-
+#>
 
 <#
 class Student()
@@ -99,7 +99,6 @@ print("     subject= ",b.subject);
    Comment
    #>
 
-<#
 int a;
 a = readInt("Enter a number: ");
 print("a= ",a);
@@ -120,4 +119,3 @@ print(" a= ",a);
 print(" b= ",b);
 print(" d= ",d);
 b=5.7;
-#>
