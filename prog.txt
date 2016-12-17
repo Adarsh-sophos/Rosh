@@ -1,5 +1,5 @@
 
-struct college
+struct university
 {
 	string advance;
 	string main;
